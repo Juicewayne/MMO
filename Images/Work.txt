@@ -1,0 +1,9 @@
+Tile Map
+
+Mob/Animated/Attack (Skeleton)
+
+Bronze/Silver/Gold/Platinum  Animate
+
+Sword
+Shield
+Magic Missile
