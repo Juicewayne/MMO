@@ -1,0 +1,13 @@
+{
+  "name": "MMO",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "minimist": "*",
+    "extend": "*",
+    "binary-parser": "*",
+    "performance-now": "*",
+    "mongoose": "*",
+    "underscore": "*"
+  }
+}

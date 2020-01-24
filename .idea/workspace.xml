@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba0d005a-7579-4c13-bda2-2fcb849d6ccc" name="Default Changelist" comment="" />
+    <list default="true" id="338018b2-3889-466b-9a31-0d2731a8bda6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1WYfsQPPtw3Xd6S51LNVprDAoqK" />
+  <component name="ProjectId" id="1Wk4qlwhRCyd2Fx2M4fRLT7XBOA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -19,7 +26,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WebstormProjects/MMO" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="Node.js.Debug Test">
+    <configuration name="Debug Prod" type="NodeJSConfigurationType" application-parameters="--env=&quot;production&quot;" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/../WebstormProjects/MMO">
+      <method v="2" />
+    </configuration>
+    <configuration name="Debug Test" type="NodeJSConfigurationType" application-parameters="--env=&quot;test&quot;" path-to-js-file="$PROJECT_DIR$/../WebstormProjects/MMO/server.js" working-dir="$PROJECT_DIR$/../WebstormProjects/MMO">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.Debug Test" />
+      <item itemvalue="Node.js.Debug Prod" />
+    </list>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -38,16 +58,56 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ba0d005a-7579-4c13-bda2-2fcb849d6ccc" name="Default Changelist" comment="" />
-      <created>1579331654938</created>
+      <changelist id="338018b2-3889-466b-9a31-0d2731a8bda6" name="Default Changelist" comment="" />
+      <created>1579680451392</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1579331654938</updated>
-      <workItem from="1579331656107" duration="23000" />
+      <updated>1579680451392</updated>
+      <workItem from="1579680453587" duration="240000" />
+      <workItem from="1579680803316" duration="3398000" />
+      <workItem from="1579898057270" duration="1890000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579898649940">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579898649940" />
+    <state x="732" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579681863019">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="732" y="324" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579681863019" />
+    <state x="740" y="226" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1579681976420">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="226" key="#com.intellij.ide.macro.MacrosDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579681976420" />
+    <state x="694" y="283" key="EnvironmentVariablesDialog" timestamp="1579681972611">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="694" y="283" key="EnvironmentVariablesDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579681972611" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1579684141461">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579684141461" />
+    <state width="1362" height="266" key="GridCell.Tab.0.bottom" timestamp="1579899949548">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="266" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579899949548" />
+    <state width="1362" height="266" key="GridCell.Tab.0.center" timestamp="1579899949547">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="266" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579899949547" />
+    <state width="1362" height="266" key="GridCell.Tab.0.left" timestamp="1579899949547">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="266" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579899949547" />
+    <state width="1362" height="266" key="GridCell.Tab.0.right" timestamp="1579899949547">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="266" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1579899949547" />
   </component>
 </project>
